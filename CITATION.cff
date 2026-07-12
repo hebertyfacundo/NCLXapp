@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "NCLXapp: Mitochondrial Calcium Efflux Calculator"
+version: 1.0.0
+date-released: 2026-07-12
+authors:
+  - family-names: "Facundo"
+    given-names: "Heberty di Tarso Fernandes"
+    email: "Heberty.facundo@gmail.com"
+    affiliation: "Universidade Federal do Cariri"
+repository-code: "https://github.com/hebertyfacundo/NCLXapp"
+license: "MIT"
+keywords:
+  - mitochondrial calcium
+  - NCLX
+  - fluorescence
+  - efflux
+type: software
